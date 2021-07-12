@@ -1,6 +1,6 @@
 WPU Resolusi
-- Konsisten membuat konten 2x seminggu
-- Membuat platform pengelolaan video
 - Membuat forum diskusi
 - Kolaborasi dengan lebih banyak expert
 - Membuat Vlog
+- Belajar HTML
+- Belajar CSS
